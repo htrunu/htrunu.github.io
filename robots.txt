@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://htrunu.github.io/sitemap.html.gz
+Sitemap: https://htrunu.github.io/app/sitemap.html.gz
+Sitemap: https://htrunu.github.io/assets/sitemap.html.gz
+Sitemap: https://htrunu.github.io/css/sitemap.html.gz
+Sitemap: https://htrunu.github.io/data/sitemap.html.gz
+Sitemap: https://htrunu.github.io/includes/sitemap.html.gz
+Sitemap: https://htrunu.github.io/item/sitemap.html.gz
+Sitemap: https://htrunu.github.io/src/sitemap.html.gz
